@@ -684,6 +684,7 @@ footer {
         flex-direction: column;
         padding-top: 50px;
         padding-bottom: 50px;
+        background: none;
     }
     .banner-sec2-img {
         width: 100%;
